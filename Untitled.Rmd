@@ -1,0 +1,15 @@
+---
+title: "token check"
+author: "Chase Tarr"
+date: "11/15/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+checking_token <- 5 + 4
+```
+
